@@ -2,17 +2,17 @@
   "name": "gulp-preprocess",
   "description": "Gulp plugin to preprocess HTML, JavaScript, and other files based on custom context or environment configuration",
   "version": "1.2.0",
-  "homepage": "http://github.com/jas/gulp-preprocess",
+  "homepage": "https://github.com/activenode/gulp-preprocess",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jas/gulp-preprocess.git"
+    "url": "https://github.com/activenode/gulp-preprocess.git"
   },
-  "author": "Jason Sandmeyer",
+  "author": "David Lorenz (Forked from Repo of original Author Jason Sandmeyer)",
   "main": "./index.js",
   "dependencies": {
     "lodash": "2.4.x",
     "map-stream": "0.1.x",
-    "preprocess": "2.1.x"
+    "preprocess": "activenode/preprocess"
   },
   "devDependencies": {
     "gulp-util": "2.2.x",
@@ -26,7 +26,7 @@
     "test": "mocha --reporter spec"
   },
   "bugs": {
-    "url": "https://github.com/jas/gulp-preprocess/issues"
+    "url": "https://github.com/activenode/gulp-preprocess/issues"
   },
   "directories": {
     "test": "test"
