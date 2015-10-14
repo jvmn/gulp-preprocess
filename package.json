@@ -1,7 +1,7 @@
 {
   "name": "gulp-preprocess",
   "description": "Gulp plugin to preprocess HTML, JavaScript, and other files based on custom context or environment configuration",
-  "version": "1.2.0",
+  "version": "1.3.1-hotfix",
   "homepage": "https://github.com/activenode/gulp-preprocess",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "2.4.x",
     "map-stream": "0.1.x",
-    "preprocess": "activenode/preprocess#v2.2.0"
+    "preprocess": "activenode/preprocess#v2.2.0-hotfix"
   },
   "devDependencies": {
     "gulp-util": "2.2.x",
