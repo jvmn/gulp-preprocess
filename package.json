@@ -10,7 +10,7 @@
   "author": "David Lorenz (Forked from Repo of original Author Jason Sandmeyer)",
   "main": "./index.js",
   "dependencies": {
-    "lodash": "2.4.x",
+    "lodash": "4.17.20",
     "map-stream": "0.1.x",
     "preprocess": "activenode/preprocess#v2.6.2" 
   },
